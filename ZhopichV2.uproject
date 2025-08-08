@@ -18,6 +18,10 @@
 		{
 			"Name": "RuntimeTelemetry",
 			"Enabled": false
+		},
+		{
+			"Name": "SmartFlyingNavigation",
+			"Enabled": true
 		}
 	]
 }
